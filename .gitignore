@@ -1,5 +1,5 @@
-# Local reference materials (keep out of Overleaf / GitHub)
-myRef/
+# Exclude external project archive (already hosted in its own repo)
+T1-highway-congestion-agent-main/
 
 # macOS
 .DS_Store
